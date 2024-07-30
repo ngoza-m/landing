@@ -1,0 +1,23 @@
+.footer-container {
+  background-color: rgba(23, 23, 23, 0.899);
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.footer ul {
+  padding-bottom: 8px;
+}
+
+.footer ul li {
+  display: inline;
+  padding: 5px;
+  /* line-height: 2px; */
+}
+
+.footer p {
+  color: white;
+}
